@@ -1,8 +1,8 @@
 ## Dynamic Ad Generator
 
-A concept project that lets you create LLM-generated ads.
+An application that lets you create LLM-generated ads.
 
-Website: [Demo](https://ad-generator.onrender.com)  
+Website: [Demo](https://adgenerator.onrender.com)  
 
 > Note: Please allow up to 30 seconds for the site to load - it's hosted for free. 
 
@@ -11,13 +11,13 @@ Website: [Demo](https://ad-generator.onrender.com)
 ## Functionality
 
 ### 1. Enter your product description
-Enter a product or service description and hit the "Generate" or press Enter.
+Enter a product or service description and select the tone and target audience you'd like for the ad.
 
 <img src="./public/ss1.png" alt="screenshot 1" width="1000" style="margin: 10px 0;" />
 
 
 ### 2. **View Advertisement**  
-The system will generate an advertisement based on your query.
+The system will generate an advertisement based on your input.
 
 <img src="./public/ss2.png" alt="screenshot 1" width="1000" style="margin: 10px 0;" />
 
